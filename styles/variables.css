@@ -1,4 +1,30 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+  --background-path: url('../images/cover-image-dark.png');
+  --background-color:#000028;
+  --accent-color:#FF0070;
+  --main-color:#000028;
+  --text-color:#F1B2CE;
+  --title-color-header-footer:#DB00FF;
+
+  
+  --text-line-height:23.4px;
+  --text-font-size:18px;
+  --heading-font-weight:700;
+  --text-font-weight:400;
+  --text-margin:20px;
+  --images-section-margin:10px;
+  --mobile-font-size:clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --tablet-and-desktop-font-size:clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  --mobile-header-grid-rows:10px 2fr repeat(2, 1fr) 2fr 10px;
+  --mobile-grid-columns:10px 2fr 1fr 10px;
+  --page-heading-lint-height:83%;
+  --tablet-header-grid-rows:20px 4fr 1fr 4fr 20px;
+  --tablet-grid-columns:20px 236px 20px 1fr 4fr 20px;
+  --tablet-images-section-columns:236px 20px repeat(2, 1fr) 230px;
+  --tablet-images-section-rows:auto 192px 230px 318px;
+  --desktop-grid-columns:20px 2fr 20px repeat(2, 1fr) 20px 2fr 20px;
+  --desktop-header-grid-rows:20px 2fr 1fr 2fr 20px;
+  --desktop-images-section-columns:315px 20px repeat(2, 1fr) 314px;
+  --desktop-images-section-rows:auto 260px 315px 433px;
+
+}
