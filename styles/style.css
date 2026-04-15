@@ -336,7 +336,7 @@
 
     .advices-main-heading {
       grid-column: 4 / 6;
-       margin: 0;
+      margin: 0;
       font-weight: var(--heading-font-weight);
       font-size: var(--text-font-size);
       line-height: var(--text-line-height);
