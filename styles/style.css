@@ -235,7 +235,6 @@
     display: inline-block;
     grid-column: 2 / 4;
     color: var(--main-color);
-    font-weight: normal;
     font-size: 18px;
     line-height: var(--text-line-height);
     font-weight: var(--heading-font-weight);
