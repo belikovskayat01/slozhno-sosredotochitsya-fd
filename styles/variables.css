@@ -12,7 +12,7 @@
   --active-menu-button-color: #ff0070;
   --menu-buttons-color:var(--accent-color);
   --page-color: #000028;
-
+  --card-headings-color:var(--accent-color);
   
   --text-line-height:23.4px;
   --text-font-size:18px;
@@ -20,7 +20,6 @@
   --text-font-weight:400;
   --text-margin:20px;
   --images-section-margin:10px;
-  --tablet-and-desktop-font-size:clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --mobile-grid-columns:10px 2fr 1fr 10px;
   --page-heading-lint-height:83%;
   --tablet-grid-columns:20px 236px 20px 1fr 4fr 20px;
