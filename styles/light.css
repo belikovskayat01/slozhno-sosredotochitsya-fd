@@ -13,6 +13,7 @@
   --menu-buttons-color: var(--active-menu-button-color);
   --card-headings-color:var(--main-text-color);
   --main-color:var(--main-text-color);
+  --information-line-text:#353430;
 }
 
 .theme-light .header__decor {
@@ -37,6 +38,9 @@
   --selected-word-color:#353430;
   --active-menu-button-color:#353430;
   --menu-buttons-color: var(--active-menu-button-color);
+  --card-headings-color:var(--main-text-color);
+  --main-color:var(--main-text-color);
+  --information-line-text:#353430;
   }
 
  .header__decor {

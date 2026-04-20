@@ -13,6 +13,7 @@
   --menu-buttons-color: var(--accent-color);
   --card-headings-color:var(--accent-color);
   --main-color:#000028;
+  --information-line-text:#000028;
 }
 
 .theme-dark .header__decor {
