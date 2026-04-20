@@ -209,7 +209,7 @@
     margin-top: var(--text-margin);
   }
 
-  .causes-list .card{
+  .causes-list .card {
     grid-column: 1 / 4;
   }
 
