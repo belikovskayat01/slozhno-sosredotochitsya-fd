@@ -374,6 +374,7 @@
     }
 
     .causes-list {
+      grid-template-columns: auto;
       grid-column: 1 / 6;
       gap: var(--text-margin);
       margin-top: 0;
